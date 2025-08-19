@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Avoid Markdown files (Except for README.md)
+*.md
+!README.md
